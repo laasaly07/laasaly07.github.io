@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+  <head>
+    <meta charset="utf-8">
+    <title>Rugby</title>
+  </head>
+
+  <body style="background-color:#e4fcdc; color:#400de0" >
+
+ 
+  <h1 align="center" style="background-color:#000000; font-size:40px; color:#FFFFFF">Rugby</h1>
+   
+  <h2>Haka All Blacks</h2>
+
+  <audio src="archivos/nz.mp3" controls>
+  </audio>
+  <br><br><br><br><br>
+   
+  <h2>Cocodrilas</h2>
+  <div class="video_container" style=" padding-bottom: 56.3%; position: relative;"> <iframe loading="lazy" src="https://www.antena3.com/noticias/embed/video-historia-cocodrilas-primer-equipo-rugby-femenino-division-honor/video/41/2019/01/06/5c321dde7ed1a8e96aa14a2b?origin=https://www.antena3.com/noticias/deportes/video-historia-cocodrilas-primer-equipo-rugby-femenino-division-honor_201901065c32210a0cf2ac6d2d69aeb0.html" width="560" height="315" frameborder="0" allowfullscreen  style="width: 100%; height: 100%; position: absolute;"></iframe> </div>	  
+
+ 
+  <br><br><br><br><br>
+   
+  <h2>Este noviembre</h2>
+   
+  <iframe width="560" height="315" src="https://youtu.be/v5duqt6tc4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br><br><br><br><br>
+   
+  <h2>Irlanda</h2>
+  <iframe width="1120" height="630" src="https://youtu.be/L_RkJt3mKHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br><br><br><br><br>
+     
+  <h2>FER rugby</h2>
+  <a href="https://ferugby.es/" target="blank"
+ 
+	  
+
+</body>
+</html>
